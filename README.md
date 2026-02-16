@@ -8,8 +8,11 @@ Through this project, I practiced designing form layouts and implementing simple
 - Basic input validation
 - Clean and simple UI
 
-## Tech Used
+## Tech used
 - HTML
 - CSS
 - JavaScript
+
+## live demo
+ [View My Project Live 🚀]( https://monica-dev14.github.io/calculator/)
 
