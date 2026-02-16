@@ -14,5 +14,5 @@ Through this project, I practiced designing form layouts and implementing simple
 - JavaScript
 
 ## live demo
- [View My Project Live 🚀]( https://monica-dev14.github.io/calculator/)
+ [View My Project Live 🚀](https://monica-dev14.github.io/Simple-Login-Form/)
 
