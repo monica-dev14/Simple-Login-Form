@@ -18,5 +18,5 @@ This is a basic Login Form project that focuses on clean design and JavaScript V
 * JavaScript
 
 ## Live Demo:
-[View My Project Live 🚀]( https://minimalist-todo-app-jade.vercel.app/)
+[View My Project Live 🚀]( https://monica-dev14.github.io/simple-login-form/)
 
